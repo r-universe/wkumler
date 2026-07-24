@@ -5,3 +5,6 @@
 [submodule "RaMS"]
 	path = RaMS
 	url = https://github.com/wkumler/rams
+[submodule "ggtintshade"]
+	path = ggtintshade
+	url = https://github.com/wkumler/ggtintshade
